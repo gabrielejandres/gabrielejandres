@@ -8,7 +8,7 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriele-jandres-cavalcanti-249107175/"><img height="30" src="https://github.com/gabrielejandres/gabrielejandres/blob/master/linkedin.png" alt="Linkedin"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/gabrielejandres/"><img height="30" src="https://github.com/gabrielejandres/gabrielejandres/blob/master/instagram.png" alt="Instagram"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/gabijandres"><img height="30" src="./blob/master/twitter.png" alt="https://github.com/gabrielejandres/gabrielejandres/blob/master/twitter.png"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/gabijandres"><img height="30" src="https://github.com/gabrielejandres/gabrielejandres/blob/master/twitter.png" alt="Twitter"></a>&nbsp;&nbsp;
 </p>
 
 <p align="center"> "In everything you do, do it with love" ♥ </p>
