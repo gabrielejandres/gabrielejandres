@@ -11,4 +11,4 @@ In my free time I like to watch movies (🎞️) and series (📺), to read book
   <a href="https://twitter.com/gabijandres"><img height="30" src="" alt="Twitter"></a>&nbsp;&nbsp;
 </p>
 
-<center> "In everything you do, do it with love" ♥ </center>
+<p> "In everything you do, do it with love" ♥ </p>
