@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Gabriele Jandres. I took IT course at CEFET and it was the main reason for the beginning of my passion for technology. Actually, I study Computer Science at UFRJ and I work as Tech Lead at EJCM, a junior computer enterprise at UFRJ. I am passionate about front-end development, but I am also very interested in the UI and UX Design area. 💜
+My name is Gabriele Jandres and I'm 20 years old. I took IT course at CEFET and it was the main reason for the beginning of my passion for technology. Currently, I study Computer Science at UFRJ and I work as Tech Lead at EJCM, a junior computer enterprise at UFRJ. I am passionate about front-end development, but I am also very interested in the UI and UX Design area. 💜
 
 In my free time I like to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to sing and play the guitar (🎸).
 
