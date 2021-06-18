@@ -13,4 +13,4 @@ My name is Gabriele Jandres and I'm 20 years old. I took IT course at CEFET and 
 
 <br/>
 
-<p align="center"> "In everything you do, do it with love" 💜 </p>
+<p align="center"> "In everything you do, do it with love" 💙 </p>
