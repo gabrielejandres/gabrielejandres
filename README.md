@@ -1,14 +1,16 @@
 ## Hi there 👋
 
-My name is Gabriele Jandres and I'm 20 years old. I took IT course at CEFET and it was the main reason for the beginning of my passion for technology. Currently, I study Computer Science at UFRJ and I work as Tech Lead at EJCM, a junior computer enterprise at UFRJ. I am passionate about front-end development, but I am also very interested in the UI and UX Design area. 💜
-
-In my free time I like to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to sing and play the guitar (🎸).
+My name is Gabriele Jandres and I'm 20 years old. I took IT course at CEFET and it was the main reason for the beginning of my passion for technology. Currently, I study Computer Science at UFRJ and I work as Tech Lead at EJCM, a junior computer enterprise at UFRJ. I am passionate about front-end development, but I am also very interested in the UI and UX Design area.
 
 ### Where will you find me?
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriele-jandres-cavalcanti-249107175/"><img height="30" src="https://github.com/gabrielejandres/gabrielejandres/blob/master/linkedin.png" alt="Linkedin"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/gabrielejandres/"><img height="30" src="https://github.com/gabrielejandres/gabrielejandres/blob/master/instagram.png" alt="Instagram"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/gabijandres"><img height="30" src="https://github.com/gabrielejandres/gabrielejandres/blob/master/twitter.png" alt="Twitter"></a>&nbsp;&nbsp;
-</p>
 
-<p align="center"> "In everything you do, do it with love" ♥ </p>
+<div>
+  <a href="https://www.linkedin.com/in/gabriele-jandres-cavalcanti-249107175/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+  <a href="mailto:gabrielejc@dcc.ufrj.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.behance.net/gabrielejandres"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
+  <a href="https://www.instagram.com/gabrielejandres/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</div>
+
+<br/>
+
+<p align="center"> "In everything you do, do it with love" 💜 </p>
