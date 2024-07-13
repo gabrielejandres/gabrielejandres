@@ -1,6 +1,6 @@
 ## Hi there ✨
 
-My name is Gabriele Jandres and I'm 23 years old. I took IT course at CEFET and it was the main reason for the beginning of my passion for technology. I also studied Computer Science at UFRJ. Currently, I work as an Associate Software Engineer. I am passionate about front-end development, but I am also very interested in the UI and UX Design area.
+My name is Gabriele Jandres and I'm 24 years old. I took IT course at CEFET and it was the main reason for the beginning of my passion for technology. I also studied Computer Science at UFRJ. Currently, I work as an Associate Software Engineer. I am passionate about front-end development, but I am also very interested in the UI and UX Design area.
 
 ### Where will you find me?
 
